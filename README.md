@@ -1,4 +1,4 @@
-### Hi there 👋
+![README Image](GitHubREADMEImage1.png)
 
 <!--
 **Gisgar3/Gisgar3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
