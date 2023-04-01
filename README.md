@@ -1,4 +1,13 @@
-![README Image](GitHubREADMEImage1.png)
+Hey there 👋 my name is Gavin and I'm a self-taught software developer from Syracuse, New York 🍊
+
+I love to develop software for the open-source community and help others whenever I get the chance! Since June 2019, I've been a member of **[GitHub](https://github.com/github)'s Advisory Council** with the primary goal of improving the platform by conversating with GitHub staff and providing feedback regarding GitHub products and community relations :octocat:
+
+Some projects I'm currently working on:
+* **[Project PistonSlap](https://github.com/Gisgar3/Project-PistonSlap)**: A ChatGPT-powered assistant that helps troubleshoot and diagnose vehicle problems
+* **[Personal Website Overhaul](https://github.com/Gisgar3/Gisgar3.github.io)**: After years of collecting dust, I'm finally getting around to updating my old website! Custom domain, Medium integration, and a full portfolio!
+* much more in the future!
+
+I'm now also taking sponsors here on GitHub! Sponsorships help me improve development by allowing me to allocate more resources for projects! If you're interested in sponsoring me, click [here](https://github.com/sponsors/Gisgar3)!
 
 <!--
 **Gisgar3/Gisgar3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
