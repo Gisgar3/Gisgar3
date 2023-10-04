@@ -1,3 +1,4 @@
+[![An image of @gisgar3's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gisgar3)](https://holopin.io/@gisgar3)
 Hey there 👋 my name is Gavin and I'm a self-taught software developer from Syracuse, New York 🍊
 
 I love to develop software for the open-source community and help others whenever I get the chance! Since June 2019, I've been a member of **[GitHub](https://github.com/github)'s Advisory Council** with the primary goal of improving the platform by conversating with GitHub staff and providing feedback regarding GitHub products and community relations :octocat:
